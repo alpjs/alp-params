@@ -1,5 +1,7 @@
 # alp-params [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-params.svg)](https://greenkeeper.io/)
+
 Validate params from query, router or post body in koa 2 or ibex
 
 [![Build Status][circleci-status-image]][circleci-status-url][![Travis Status][travisci-status-image]][travisci-status-url][![Dependency Status][daviddm-image]][daviddm-url]
